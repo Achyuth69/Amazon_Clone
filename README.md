@@ -1,2 +1,1 @@
-# Amazon_Clone
-Basic amazon page clone using HTML
+# Amazon-Clone
